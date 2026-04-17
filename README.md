@@ -121,6 +121,3 @@ The investigation followed a structured forensic methodology:
 
 
 
-
-👉 drop your repo link
-I’ll rate it like a recruiter (and tell you if it’s internship-level ready) 💻✨
