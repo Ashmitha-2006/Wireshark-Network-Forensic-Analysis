@@ -119,6 +119,10 @@ The investigation followed a structured forensic methodology:
 
 👉 [View Full Network Forensic Report](./Network%20Forensic%20Report.pdf)
 
+## ⚠️ Disclaimer  
+
+This project was conducted as part of an academic coursework exercise in a controlled lab environment.  
+All data used in this investigation is simulated and intended solely for educational and demonstration purposes.
 
 
 
