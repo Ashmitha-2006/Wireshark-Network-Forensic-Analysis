@@ -1,6 +1,4 @@
-You’re right—the content is strong, it just needs **clean structure + spacing**. Here’s a polished, **GitHub-ready README** you can copy-paste 👇
 
----
 
 # 📌 Network Traffic Analysis & Threat Investigation using Wireshark
 
@@ -121,16 +119,8 @@ The investigation followed a structured forensic methodology:
 
 
 
-## 💎 Why this version is better
 
-* Clean sections ✔
-* Easy to skim ✔
-* Professional formatting ✔
-* Looks like **real cybersecurity portfolio work** ✔
 
----
-
-If you want next:
 
 👉 drop your repo link
 I’ll rate it like a recruiter (and tell you if it’s internship-level ready) 💻✨
