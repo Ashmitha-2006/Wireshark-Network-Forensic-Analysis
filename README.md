@@ -115,7 +115,9 @@ The investigation followed a structured forensic methodology:
 * Digital Forensics
 * Evidence Correlation
 
----
+## 📄 Full Report  
+
+👉 [View Full Network Forensic Report](./Network%20Forensic%20Report.pdf)
 
 
 
